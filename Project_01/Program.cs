@@ -1,8 +1,8 @@
-﻿using System;
+﻿using System; //Блок подключения библиотеки
 
-namespace project {
-    class Program {
-        static void Main() {
+namespace project { //Пространство имен с названием папки
+    class Program {  //Основной класс программы
+        static void Main() { //Главный метод программы (точка входа)
             /*
             Огромный комментарий
             В НЕСКОЛЬКО СТРОК
@@ -13,8 +13,8 @@ namespace project {
             Console.Write("Hello 4\n\n"); // '\n' - вариант вывода текста с новой строки при использовании Write
             Console.Write("Hello 5");
             Console.WriteLine("Hello 6");
-            Console.ReadKey(); // Метод получение данных от пользователя ЛИШЬ ОДНОГО СИМВОЛА
-            Console.ReadLine(); // Метод получение данных от пользователя МНОГО СИМВОЛОВ
+            Console.ReadKey(); // Метод получение данных от пользователя из терминала ЛИШЬ ОДНОГО СИМВОЛА
+            Console.ReadLine(); // Метод получение данных от пользователя из терминала МНОГО СИМВОЛОВ
         }
     }
 }
