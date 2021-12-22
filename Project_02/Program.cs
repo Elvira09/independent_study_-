@@ -22,7 +22,8 @@ namespace project {
         
             long number4 = 45734234234242; //long - тип данных целого числа в диапозоне гигантских чисел
             Console.WriteLine("Переменная типа данных long (целые гигантские положительные и отрицательные числа): " + number4); 
-   
+            
+            //в терминале число с точкой вводиться ЧЕРЕЗ ЗАПЯТУЮ
             float number5 = 43534.5346f; //float - тип данных числа с точкой, в конце числа обязательно ставить букву 'f'
             Console.WriteLine("Переменная типа данных float (числа с точкой): " + number5); 
    
@@ -58,3 +59,9 @@ namespace project {
             Console.ReadLine(); // Метод получение данных от пользователя из терминала МНОГО СИМВОЛОВ
         }
         */
+
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("First: " + num1 + "  Second: " + num2);
+        }
+    }
+}
