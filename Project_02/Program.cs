@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ПЕРЕМЕННЫЕ И ТИПЫ ДАННЫХ
+using System;
 
 namespace project {
     class Program {
