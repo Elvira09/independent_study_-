@@ -1,0 +1,15 @@
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/bin/Debug/net6.0/Project_01
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/bin/Debug/net6.0/Project_01.deps.json
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/bin/Debug/net6.0/Project_01.runtimeconfig.json
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/bin/Debug/net6.0/Project_01.dll
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/bin/Debug/net6.0/ref/Project_01.dll
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/bin/Debug/net6.0/Project_01.pdb
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.csproj.AssemblyReference.cache
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.AssemblyInfoInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.AssemblyInfo.cs
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.csproj.CoreCompileInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.dll
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/ref/Project_01.dll
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.pdb
+/Users/pavelzagrebnev/Desktop/GB/Самостоятельно/C#/PROJECT/Project_01/obj/Debug/net6.0/Project_01.genruntimeconfig.cache
