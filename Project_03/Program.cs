@@ -1,4 +1,5 @@
-﻿using System;
+﻿//МАТЕМАТИЧЕСКИЕ ДЕЙСТВИЯ
+using System;
 
 namespace project {
     class Program {
