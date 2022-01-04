@@ -36,7 +36,7 @@ namespace project {
         Console.WriteLine("Выводим на экран минимальное число: " + Math.Min(9, 5)); //Min(число, число) - вычисляет минимальное число
         Console.WriteLine("Выводим на экран число возведенное в степень: " + Math.Pow(9, 5)); //Pow(число, степень) - возводит число в степень
 
-            //Пример программки
+            //Пример 
         Console.WriteLine("Введите радиус круга: ");
         double radius = Convert.ToDouble(Console.ReadLine()); //в переменную radius помещаем число, полученное от пользователя в терминале посредством Метода ReadLine и конвертируем с формата double в int посредством команды ToDouble 
         double area = Math.PI * Math.Pow(radius, 2); // Площадь круга равна ПИ * радиус в квадрате
