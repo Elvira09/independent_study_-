@@ -1,4 +1,4 @@
-[https://www.youtube.com/watch?v=_8yZYhAkQjQ&list=PLDyJYA6aTY1laYPs6iS-SrYl9DZLVCUKr&index=1]( "Изучение C# для начинающих")
+["Изучение C# для начинающих"](https://www.youtube.com/watch?v=_8yZYhAkQjQ&list=PLDyJYA6aTY1laYPs6iS-SrYl9DZLVCUKr&index=1 )
 
 
 01. БАЗОВАЯ СТРУКТУРА. ВЫВОД ИНФОРМАЦИИ
